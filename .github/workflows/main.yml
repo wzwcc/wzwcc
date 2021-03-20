@@ -30,7 +30,7 @@ jobs:
 
           plugin_pagespeed: yes
           # plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://BlueSkyClouds.com
+          plugin_pagespeed_url: https://blog.lineoff.fun
 
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
