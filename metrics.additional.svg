@@ -1038,8 +1038,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               03
             </div>
           
@@ -1192,8 +1192,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">2</span>
-                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Wed
               </div>
             
@@ -1225,20 +1225,14 @@
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 75.976%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                <span class="value">95%</span>
+                <div class="bar" style="width: 77.32000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">97%</span>
               </div>
             
               <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 2.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 2.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">3%</span>
-              </div>
-            
-              <div class="entry">
-                <span class="name">HTML</span>
-                <div class="bar" style="width: 1.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">2%</span>
               </div>
             
           </div>
