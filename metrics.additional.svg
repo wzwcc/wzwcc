@@ -161,6 +161,22 @@
     flex: 1 1 0;
   }
 
+/* Follow-up */
+  .followup.legend {
+    font-size: 12px;
+  }
+  .followup.legend svg {
+    margin: 0 3px;
+    width: 14px;
+    height: 14px;
+  }
+  .followup.legend svg:first-child {
+    margin-left: 0;
+  }
+  .followup.legend svg:last-child {
+    margin-right: 0;
+  }
+
 /* Labels */
   .label {
     background-color: #58A6FF30;
@@ -1269,15 +1285,9 @@
                             <div class="entry">
                 <span class="value">1</span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                9
+                10
                 
                   <div class="bottom">Apr.</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                10
                 
               </div>
                             <div class="entry">
@@ -1350,6 +1360,12 @@
                 <span class="value"></span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 22
+                
+              </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                23
                 
               </div>
                         </div>
@@ -1360,15 +1376,9 @@
                             <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                9
+                10
                 
                 <div class="bottom">Apr.</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                10
                 
               </div>
                             <div class="entry">
@@ -1441,6 +1451,12 @@
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 22
+                
+              </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                23
                 
               </div>
                         </div>
